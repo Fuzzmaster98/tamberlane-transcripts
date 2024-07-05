@@ -1,0 +1,7 @@
+CIERVO: Bueno, Belfry.... 
+CIERVO: No te olvides de usar
+CIERVO: *¡guantes para horno!*
+
+[SFX: paf]
+
+[SFX: hrmn]
