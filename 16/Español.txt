@@ -1,0 +1,13 @@
+[SFX: uf]
+
+BELFRY: ¡BUENO! ¡Es hora de ser RESPONSABLE!
+BELFRY: ¡Voy a sacarlo del parque!
+[SFX: ¡yosh'!]
+
+BELFRY: ¡Vamos a encontrarme algunos cachorros!
+
+ANTHONY: ***¡BELFRY!***
+
+BELFRY: ¿Ese es Anthony?
+
+BELFRY: ¡Muy bien investigación, Belfry!
