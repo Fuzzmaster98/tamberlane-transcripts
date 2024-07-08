@@ -1,0 +1,11 @@
+BELFRY: Estás todo golpeado...
+BELFRY: Y sucio.
+BELFRY: Y magro.
+
+BELFRY: ¿Dónde están tus padres?
+
+BELFRY: ¿Realmente tienes padres?
+BELFRY: ¿Están en algún lugar por aquí?
+
+BELFRY: Seguramente no se habrían alejado demasiado lejos de su cachorro...
+BELFRY: Pero si ellos te *abandonaron*, no merecen tenerte.
