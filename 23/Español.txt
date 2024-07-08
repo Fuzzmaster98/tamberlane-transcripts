@@ -1,0 +1,20 @@
+[SFX: CARICIA]
+
+BELFRY: No eres un fantasma en absoluto, ¿verdad?
+
+BELFRY: ¡Eres tan *pequeñito*!
+
+BELFRY: Si no eres un fantasma... 
+BELFRY: ¿Entonces qué *eres* tú?
+
+TAMBERLANE: ¡Tamberlane!
+
+BELFRY: ¡Oh, puedes hablar!
+BELFRY: Un poco.
+BELFRY: Pero no sé lo que es un Tamberlane.
+
+[SFX: OLER OLER]
+TAMBERLANE: ¡Jaja!
+
+BELFRY: Pero hueles tan joven.
+BELFRY: ¿Eres solo un cachorro?
